@@ -1,7 +1,7 @@
 ## Olá! Sou o Pablo Ribeiro, Prazer!
 
 - 🔭 Gostaria de trabalhar Backend/Suporte
-- 🌱 Atualmente aprendendo Java e SQL
+- 🌱 Com conhecimento em Java, estou aprendendo Spring Boot e API REST
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
