@@ -75,11 +75,7 @@ Acompanho de perto a evolução da IA e uso como apoio para estudar e depurar. O
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=PabLoSWeB&show_icons=true&bg_color=0D0D0D&title_color=FFD500&icon_color=D7261E&text_color=FFFFFF&border_color=D7261E" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabLoSWeB&layout=compact&langs_count=6&bg_color=0D0D0D&title_color=FFD500&text_color=FFFFFF&border_color=D7261E" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=PabLoSWeB&background=0D0D0D&ring=D7261E&fire=FFD500&currStreakLabel=FFD500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&border=D7261E&stroke=D7261E" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabLoSWeB&bg_color=0D0D0D&color=FFD500&line=D7261E&point=FFFFFF&area=true&area_color=D7261E&hide_border=true&radius=8" alt="Gráfico de atividade" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=PabLoSWeB&theme=alduin&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
