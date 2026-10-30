@@ -72,7 +72,7 @@ Acompanho de perto a evolução da IA e uso como apoio para estudar e depurar. O
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PabLoSWeB&show_icons=true&bg_color=0D0D0D&title_color=FFD500&icon_color=D7261E&text_color=FFFFFF&border_color=D7261E" alt="GitHub Stats" />
+
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabLoSWeB&layout=compact&langs_count=6&bg_color=0D0D0D&title_color=FFD500&text_color=FFFFFF&border_color=D7261E" alt="Top Languages" />
 
 
